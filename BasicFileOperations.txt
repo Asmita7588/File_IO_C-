@@ -1,0 +1,2 @@
+this file is writing without using 
+this is very usful concept when you want save data during excution
